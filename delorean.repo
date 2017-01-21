@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-puppet-redis-51a326893cdcf6c8cd3cdefcf7c10a73f3b2cf00
-baseurl=https://trunk.rdoproject.org/centos7/51/a3/51a326893cdcf6c8cd3cdefcf7c10a73f3b2cf00_8e1de67e
+name=delorean-openstack-heat-510a37b60137fab6380396ee27f6f20a35895906
+baseurl=https://trunk.rdoproject.org/centos7/51/0a/510a37b60137fab6380396ee27f6f20a35895906_accb21d7
 enabled=1
 gpgcheck=0
 priority=1
