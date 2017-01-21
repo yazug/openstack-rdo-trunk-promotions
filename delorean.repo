@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-puppet-ceph-fd5cf462c66dfa751c6b68c41f38f8cf257eba3f
-baseurl=https://trunk.rdoproject.org/centos7/fd/5c/fd5cf462c66dfa751c6b68c41f38f8cf257eba3f_9593efd4
+name=delorean-openstack-neutron-lbaas-87a54819028cebe53bdbc372cc7e84388a183da8
+baseurl=https://trunk.rdoproject.org/centos7/87/a5/87a54819028cebe53bdbc372cc7e84388a183da8_f5406ef2
 enabled=1
 gpgcheck=0
 priority=1
