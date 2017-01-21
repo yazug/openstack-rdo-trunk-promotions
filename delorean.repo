@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-openstack-trove-ui-2e7ad6c53570265ec66d8e585c2c504e9d23a279
-baseurl=https://trunk.rdoproject.org/centos7/2e/7a/2e7ad6c53570265ec66d8e585c2c504e9d23a279_23aa8397
+name=delorean-openstack-app-catalog-ui-4f5e9f658b309b361f0148945a0a1ae63621090d
+baseurl=https://trunk.rdoproject.org/centos7/4f/5e/4f5e9f658b309b361f0148945a0a1ae63621090d_f20939e2
 enabled=1
 gpgcheck=0
 priority=1
