@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-python-networking-fujitsu-f6db68c9b7cc8917626eef545df79140cae9b87a
-baseurl=https://trunk.rdoproject.org/centos7/f6/db/f6db68c9b7cc8917626eef545df79140cae9b87a_b7c27184
+name=delorean-openstack-sahara-e2a50695cd1c317192090d15510c0fb9793bca03
+baseurl=https://trunk.rdoproject.org/centos7/e2/a5/e2a50695cd1c317192090d15510c0fb9793bca03_ba97936d
 enabled=1
 gpgcheck=0
 priority=1
