@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-openstack-neutron-lbaas-87a54819028cebe53bdbc372cc7e84388a183da8
-baseurl=https://trunk.rdoproject.org/centos7/87/a5/87a54819028cebe53bdbc372cc7e84388a183da8_f5406ef2
+name=delorean-openstack-cinder-c3445de18622fc605166c08eb725bb87eca2c463
+baseurl=https://trunk.rdoproject.org/centos7/c3/44/c3445de18622fc605166c08eb725bb87eca2c463_59ab1da2
 enabled=1
 gpgcheck=0
 priority=1
