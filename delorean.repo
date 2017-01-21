@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-puppet-pacemaker-1506407ae2484e6a411a217d41173c3e679cdb20
-baseurl=https://trunk.rdoproject.org/centos7/15/06/1506407ae2484e6a411a217d41173c3e679cdb20_59461364
+name=delorean-openstack-neutron-fe9541f224600f2623f1f4bf0568c5d72750c6cf
+baseurl=https://trunk.rdoproject.org/centos7/fe/95/fe9541f224600f2623f1f4bf0568c5d72750c6cf_a2a0a8b6
 enabled=1
 gpgcheck=0
 priority=1
