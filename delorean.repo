@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-openstack-trove-823c1c7a58d098974fefbd2a017643ca69a8dba2
-baseurl=https://trunk.rdoproject.org/centos7/82/3c/823c1c7a58d098974fefbd2a017643ca69a8dba2_a1fc021e
+name=delorean-puppet-tripleo-77c1ca1243fbc38210e9f6264c5c36b546d1a95a
+baseurl=https://trunk.rdoproject.org/centos7/77/c1/77c1ca1243fbc38210e9f6264c5c36b546d1a95a_34edda79
 enabled=1
 gpgcheck=0
 priority=1
