@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-puppet-kafka-ec72490907671943ab36098697a6545c96552453
-baseurl=https://trunk.rdoproject.org/centos7/ec/72/ec72490907671943ab36098697a6545c96552453_5d0f75e7
+name=delorean-python-networking-fujitsu-f6db68c9b7cc8917626eef545df79140cae9b87a
+baseurl=https://trunk.rdoproject.org/centos7/f6/db/f6db68c9b7cc8917626eef545df79140cae9b87a_b7c27184
 enabled=1
 gpgcheck=0
 priority=1
