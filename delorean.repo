@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-puppet-opendaylight-388bce8ef23986a1ec9654685267ebb96ed82bba
-baseurl=https://trunk.rdoproject.org/centos7/38/8b/388bce8ef23986a1ec9654685267ebb96ed82bba_b94769c1
+name=delorean-puppet-apache-46b148b709f4394135ac535fb200b3d71672ef25
+baseurl=https://trunk.rdoproject.org/centos7/46/b1/46b148b709f4394135ac535fb200b3d71672ef25_b048bf9b
 enabled=1
 gpgcheck=0
 priority=1
