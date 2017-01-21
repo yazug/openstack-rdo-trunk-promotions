@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-openstack-tripleo-common-0ffa15e23dac54ca1f22683cc05d5a8b58842d44
-baseurl=https://trunk.rdoproject.org/centos7/0f/fa/0ffa15e23dac54ca1f22683cc05d5a8b58842d44_1b0f1115
+name=delorean-openstack-neutron-lbaas-c025712a9bdca117245a133df96dce3b818ab354
+baseurl=https://trunk.rdoproject.org/centos7/c0/25/c025712a9bdca117245a133df96dce3b818ab354_f5406ef2
 enabled=1
 gpgcheck=0
 priority=1
