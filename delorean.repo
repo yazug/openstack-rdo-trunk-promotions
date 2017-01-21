@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-openstack-ironic-89fa548671db6a20df0e2b54aef3a2f784e72d3e
-baseurl=https://trunk.rdoproject.org/centos7/89/fa/89fa548671db6a20df0e2b54aef3a2f784e72d3e_40ff6ed4
+name=delorean-python-os-faults-2086d2397c05716f1e9da0b3ca7d7172de1831f8
+baseurl=https://trunk.rdoproject.org/centos7/20/86/2086d2397c05716f1e9da0b3ca7d7172de1831f8_ae5742d9
 enabled=1
 gpgcheck=0
 priority=1
