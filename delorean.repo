@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-openstack-manila-f427dfe00b8f3d0f52c59a28292f2326c3329e57
-baseurl=https://trunk.rdoproject.org/centos7/f4/27/f427dfe00b8f3d0f52c59a28292f2326c3329e57_f29641aa
+name=delorean-openstack-heat-12cc65b2d12eeafefe2e1989cdffdc0fdec288e9
+baseurl=https://trunk.rdoproject.org/centos7/12/cc/12cc65b2d12eeafefe2e1989cdffdc0fdec288e9_b7f7441b
 enabled=1
 gpgcheck=0
 priority=1
