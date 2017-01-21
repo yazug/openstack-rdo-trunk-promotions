@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-puppet-timezone-3693726d4a78b6afa603dbdea042db2cbe54f1fd
-baseurl=https://trunk.rdoproject.org/centos7/36/93/3693726d4a78b6afa603dbdea042db2cbe54f1fd_d43761eb
+name=delorean-openstack-rally-01a1b5fc6e242775d126a0f357ea91c38c783404
+baseurl=https://trunk.rdoproject.org/centos7/01/a1/01a1b5fc6e242775d126a0f357ea91c38c783404_a9dacb56
 enabled=1
 gpgcheck=0
 priority=1
