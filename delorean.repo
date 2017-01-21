@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-puppet-cinder-30d7e3d85a8167bbc03512ee21c13339bd5c2a8c
-baseurl=https://trunk.rdoproject.org/centos7/30/d7/30d7e3d85a8167bbc03512ee21c13339bd5c2a8c_92b8d4cc
+name=delorean-openstack-magnum-c8f07a1fb09ffb0a576766aeaf7106ad83570caf
+baseurl=https://trunk.rdoproject.org/centos7/c8/f0/c8f07a1fb09ffb0a576766aeaf7106ad83570caf_c76d9d9f
 enabled=1
 gpgcheck=0
 priority=1
