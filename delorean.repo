@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-python-cloudkittyclient-d82273fcd4fbc84d7748b03f765d7d2a14e121d6
-baseurl=https://trunk.rdoproject.org/centos7/d8/22/d82273fcd4fbc84d7748b03f765d7d2a14e121d6_2400978e
+name=delorean-python-django-horizon-57cbba9e59cb32d95bc12fee5e109ac3d1e1421f
+baseurl=https://trunk.rdoproject.org/centos7/57/cb/57cbba9e59cb32d95bc12fee5e109ac3d1e1421f_8ef52719
 enabled=1
 gpgcheck=0
 priority=1
