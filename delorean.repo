@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-openstack-cinder-eb504c0e146492d1d51536fc17e9764c19900a6c
-baseurl=https://trunk.rdoproject.org/centos7/eb/50/eb504c0e146492d1d51536fc17e9764c19900a6c_59ab1da2
+name=delorean-openstack-nova-283dbc3deecc3506ec4674d213489e2e7261f2e5
+baseurl=https://trunk.rdoproject.org/centos7/28/3d/283dbc3deecc3506ec4674d213489e2e7261f2e5_6e333f98
 enabled=1
 gpgcheck=0
 priority=1
