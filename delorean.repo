@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-puppet-collectd-665e3fd3ac6432c088020f9e8abb4419cd00963a
-baseurl=https://trunk.rdoproject.org/centos7/66/5e/665e3fd3ac6432c088020f9e8abb4419cd00963a_0f934088
+name=delorean-python-networking-cisco-173bdea41fa7a9b48197f1a612e964ce1fa5739c
+baseurl=https://trunk.rdoproject.org/centos7/17/3b/173bdea41fa7a9b48197f1a612e964ce1fa5739c_87730e37
 enabled=1
 gpgcheck=0
 priority=1
