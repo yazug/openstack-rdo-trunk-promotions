@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-openstack-cloudkitty-fd590827e06fcc99603ee620ac0e8570833bb667
-baseurl=https://trunk.rdoproject.org/centos7/fd/59/fd590827e06fcc99603ee620ac0e8570833bb667_ae0f7f88
+name=delorean-openstack-sahara-tests-b3a8dc4ca64ac2459aeefd7b176e13c34d8ef3db
+baseurl=https://trunk.rdoproject.org/centos7/b3/a8/b3a8dc4ca64ac2459aeefd7b176e13c34d8ef3db_b6aab5a8
 enabled=1
 gpgcheck=0
 priority=1
