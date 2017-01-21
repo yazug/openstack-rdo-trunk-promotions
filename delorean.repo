@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-python-networking-cisco-173bdea41fa7a9b48197f1a612e964ce1fa5739c
-baseurl=https://trunk.rdoproject.org/centos7/17/3b/173bdea41fa7a9b48197f1a612e964ce1fa5739c_87730e37
+name=delorean-openstack-tripleo-common-bb7e8dbe3a3c183a92f97e2ee90614d95921ec52
+baseurl=https://trunk.rdoproject.org/centos7/bb/7e/bb7e8dbe3a3c183a92f97e2ee90614d95921ec52_d5612b91
 enabled=1
 gpgcheck=0
 priority=1
