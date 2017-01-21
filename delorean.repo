@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-openstack-mistral-b48d41219e3fa96cf42dd7fb88394d0fd65dfaa5
-baseurl=https://trunk.rdoproject.org/centos7/b4/8d/b48d41219e3fa96cf42dd7fb88394d0fd65dfaa5_b22caa60
+name=delorean-openstack-keystone-686f9d583eaa5f015d6b8b995c2f4243392ffbce
+baseurl=https://trunk.rdoproject.org/centos7/68/6f/686f9d583eaa5f015d6b8b995c2f4243392ffbce_bb3c33a0
 enabled=1
 gpgcheck=0
 priority=1
