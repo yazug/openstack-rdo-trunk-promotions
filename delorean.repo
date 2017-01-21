@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-openstack-mistral-2852d113b14aa5c0ab116a6f20569714fcd11f16
-baseurl=https://trunk.rdoproject.org/centos7/28/52/2852d113b14aa5c0ab116a6f20569714fcd11f16_b22caa60
+name=delorean-python-networking-odl-602abab37c69e6b6626903fc8ddd9ea668d0de51
+baseurl=https://trunk.rdoproject.org/centos7/60/2a/602abab37c69e6b6626903fc8ddd9ea668d0de51_66083417
 enabled=1
 gpgcheck=0
 priority=1
