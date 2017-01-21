@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-puppet-ceilometer-3bda006e6e40a3581f4f0893600066312ab027e3
-baseurl=https://trunk.rdoproject.org/centos7/3b/da/3bda006e6e40a3581f4f0893600066312ab027e3_2ea4e706
+name=delorean-openstack-magnum-54025f335c28f2367ae8730d5dab61b80b8ebcd6
+baseurl=https://trunk.rdoproject.org/centos7/54/02/54025f335c28f2367ae8730d5dab61b80b8ebcd6_c76d9d9f
 enabled=1
 gpgcheck=0
 priority=1
