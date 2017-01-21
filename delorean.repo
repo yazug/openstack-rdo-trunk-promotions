@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-python-networking-vmware-nsx-24848c0c45eae4971037fd7872321c8357a3bd7b
-baseurl=https://trunk.rdoproject.org/centos7/24/84/24848c0c45eae4971037fd7872321c8357a3bd7b_1164d4c0
+name=delorean-puppet-memcached-b6a48aabc1db5a3b2c0675155e5ea7d45ae8dd90
+baseurl=https://trunk.rdoproject.org/centos7/b6/a4/b6a48aabc1db5a3b2c0675155e5ea7d45ae8dd90_f1cfe5cd
 enabled=1
 gpgcheck=0
 priority=1
