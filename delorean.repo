@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-puppet-apache-46b148b709f4394135ac535fb200b3d71672ef25
-baseurl=https://trunk.rdoproject.org/centos7/46/b1/46b148b709f4394135ac535fb200b3d71672ef25_b048bf9b
+name=delorean-openstack-manila-f2c2366e04981ff8b944eafd2398f484607e1c8a
+baseurl=https://trunk.rdoproject.org/centos7/f2/c2/f2c2366e04981ff8b944eafd2398f484607e1c8a_bc6d80ae
 enabled=1
 gpgcheck=0
 priority=1
