@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-openstack-tripleo-image-elements-b9fb5326fd4789aed2a04b30b0586aa47717d295
-baseurl=https://trunk.rdoproject.org/centos7/b9/fb/b9fb5326fd4789aed2a04b30b0586aa47717d295_cda996b3
+name=delorean-openstack-tripleo-common-0ffa15e23dac54ca1f22683cc05d5a8b58842d44
+baseurl=https://trunk.rdoproject.org/centos7/0f/fa/0ffa15e23dac54ca1f22683cc05d5a8b58842d44_1b0f1115
 enabled=1
 gpgcheck=0
 priority=1
