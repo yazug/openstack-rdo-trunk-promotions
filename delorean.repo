@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-python-networking-vmware-nsx-22b6a3f0a069d3fc6910bd382be8ae666642d3fd
-baseurl=https://trunk.rdoproject.org/centos7/22/b6/22b6a3f0a069d3fc6910bd382be8ae666642d3fd_1164d4c0
+name=delorean-python-networking-vmware-nsx-a21036b14871c26958002a2fb2048caa66763f94
+baseurl=https://trunk.rdoproject.org/centos7/a2/10/a21036b14871c26958002a2fb2048caa66763f94_1164d4c0
 enabled=1
 gpgcheck=0
 priority=1
