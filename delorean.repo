@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-puppet-redis-ba43661c85f7b74ab60d1aafd8871591f25e9a91
-baseurl=https://trunk.rdoproject.org/centos7/ba/43/ba43661c85f7b74ab60d1aafd8871591f25e9a91_8e1de67e
+name=delorean-puppet-neutron-cbe9fd120769eb99b4505cc427e2c93541540b0f
+baseurl=https://trunk.rdoproject.org/centos7/cb/e9/cbe9fd120769eb99b4505cc427e2c93541540b0f_f33d1a1a
 enabled=1
 gpgcheck=0
 priority=1
