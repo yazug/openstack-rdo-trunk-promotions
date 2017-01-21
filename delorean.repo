@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-puppet-memcached-b6a48aabc1db5a3b2c0675155e5ea7d45ae8dd90
-baseurl=https://trunk.rdoproject.org/centos7/b6/a4/b6a48aabc1db5a3b2c0675155e5ea7d45ae8dd90_f1cfe5cd
+name=delorean-puppet-ceph-fd5cf462c66dfa751c6b68c41f38f8cf257eba3f
+baseurl=https://trunk.rdoproject.org/centos7/fd/5c/fd5cf462c66dfa751c6b68c41f38f8cf257eba3f_9593efd4
 enabled=1
 gpgcheck=0
 priority=1
