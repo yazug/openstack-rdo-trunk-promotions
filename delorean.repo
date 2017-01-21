@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-openstack-nova-bf26d65677ff767d50d39999d37ff5f18e14765d
-baseurl=https://trunk.rdoproject.org/centos7/bf/26/bf26d65677ff767d50d39999d37ff5f18e14765d_c211fbe8
+name=delorean-python-django-horizon-93b1cef05019eefabd28e71e9af038274a14b9cf
+baseurl=https://trunk.rdoproject.org/centos7/93/b1/93b1cef05019eefabd28e71e9af038274a14b9cf_7bca5b5d
 enabled=1
 gpgcheck=0
 priority=1
