@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-openstack-nova-e4f6689cb531c2d8391cc0d74aa035d4a4b11228
-baseurl=https://trunk.rdoproject.org/centos7/e4/f6/e4f6689cb531c2d8391cc0d74aa035d4a4b11228_6e333f98
+name=delorean-puppet-kafka-ec72490907671943ab36098697a6545c96552453
+baseurl=https://trunk.rdoproject.org/centos7/ec/72/ec72490907671943ab36098697a6545c96552453_5d0f75e7
 enabled=1
 gpgcheck=0
 priority=1
