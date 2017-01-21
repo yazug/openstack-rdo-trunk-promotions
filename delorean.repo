@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-openstack-tripleo-common-49e14bfff5e811a2598b211ea14c704f32e59bd0
-baseurl=https://trunk.rdoproject.org/centos7/49/e1/49e14bfff5e811a2598b211ea14c704f32e59bd0_990cf0d0
+name=delorean-puppet-pacemaker-5b2d789111c45af723df13fc649c471fea4aa6df
+baseurl=https://trunk.rdoproject.org/centos7/5b/2d/5b2d789111c45af723df13fc649c471fea4aa6df_59461364
 enabled=1
 gpgcheck=0
 priority=1
