@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-puppet-kafka-4f660cbbfe5886d3395a4d9c7e662f254e6521d2
-baseurl=https://trunk.rdoproject.org/centos7/4f/66/4f660cbbfe5886d3395a4d9c7e662f254e6521d2_5d0f75e7
+name=delorean-openstack-heat-642404d6ff7b917d28f8081bc2e19fe527f27ec1
+baseurl=https://trunk.rdoproject.org/centos7/64/24/642404d6ff7b917d28f8081bc2e19fe527f27ec1_b7f7441b
 enabled=1
 gpgcheck=0
 priority=1
