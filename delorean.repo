@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-python-networking-odl-602abab37c69e6b6626903fc8ddd9ea668d0de51
-baseurl=https://trunk.rdoproject.org/centos7/60/2a/602abab37c69e6b6626903fc8ddd9ea668d0de51_66083417
+name=delorean-puppet-ceilometer-3bda006e6e40a3581f4f0893600066312ab027e3
+baseurl=https://trunk.rdoproject.org/centos7/3b/da/3bda006e6e40a3581f4f0893600066312ab027e3_2ea4e706
 enabled=1
 gpgcheck=0
 priority=1
