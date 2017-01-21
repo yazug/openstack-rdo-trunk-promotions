@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-instack-undercloud-41a6c74e437538530cce7126c306f951f669ac94
-baseurl=https://trunk.rdoproject.org/centos7/41/a6/41a6c74e437538530cce7126c306f951f669ac94_5cd3947a
+name=delorean-puppet-collectd-665e3fd3ac6432c088020f9e8abb4419cd00963a
+baseurl=https://trunk.rdoproject.org/centos7/66/5e/665e3fd3ac6432c088020f9e8abb4419cd00963a_0f934088
 enabled=1
 gpgcheck=0
 priority=1
