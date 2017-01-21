@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-openstack-heat-44dc6298f344618115215228c74d9dc11342c9d1
-baseurl=https://trunk.rdoproject.org/centos7/44/dc/44dc6298f344618115215228c74d9dc11342c9d1_b7f7441b
+name=delorean-puppet-nova-afa003cf80a192df00cd7d48294e55981710580c
+baseurl=https://trunk.rdoproject.org/centos7/af/a0/afa003cf80a192df00cd7d48294e55981710580c_25175316
 enabled=1
 gpgcheck=0
 priority=1
