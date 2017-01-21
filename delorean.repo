@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-openstack-tripleo-heat-templates-7057ec6f7cedbf63ee0d0110cc14a61a9f2b07e1
-baseurl=https://trunk.rdoproject.org/centos7/70/57/7057ec6f7cedbf63ee0d0110cc14a61a9f2b07e1_9101f5cd
+name=delorean-puppet-opendaylight-6496b2e1664addd97a05398fa312e1af492e5715
+baseurl=https://trunk.rdoproject.org/centos7/64/96/6496b2e1664addd97a05398fa312e1af492e5715_b94769c1
 enabled=1
 gpgcheck=0
 priority=1
