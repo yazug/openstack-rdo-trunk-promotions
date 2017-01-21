@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-openstack-sahara-tests-b3a8dc4ca64ac2459aeefd7b176e13c34d8ef3db
-baseurl=https://trunk.rdoproject.org/centos7/b3/a8/b3a8dc4ca64ac2459aeefd7b176e13c34d8ef3db_b6aab5a8
+name=delorean-openstack-cinder-0069832d1f52a30d06f699132470e5cd215e0f32
+baseurl=https://trunk.rdoproject.org/centos7/00/69/0069832d1f52a30d06f699132470e5cd215e0f32_59ab1da2
 enabled=1
 gpgcheck=0
 priority=1
