@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-puppet-zaqar-17960381808981c1c981470b2085666445427b43
-baseurl=https://trunk.rdoproject.org/centos7/17/96/17960381808981c1c981470b2085666445427b43_4e0df250
+name=delorean-openstack-heat-44dc6298f344618115215228c74d9dc11342c9d1
+baseurl=https://trunk.rdoproject.org/centos7/44/dc/44dc6298f344618115215228c74d9dc11342c9d1_b7f7441b
 enabled=1
 gpgcheck=0
 priority=1
