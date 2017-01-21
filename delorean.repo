@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-puppet-vcsrepo-871763932f99564f30d52a853f8e532fa3ac2a4e
-baseurl=https://trunk.rdoproject.org/centos7/87/17/871763932f99564f30d52a853f8e532fa3ac2a4e_4d437246
+name=delorean-openstack-aodh-dc3794b4568f54508b1ef5fa67d5742d93c5865d
+baseurl=https://trunk.rdoproject.org/centos7/dc/37/dc3794b4568f54508b1ef5fa67d5742d93c5865d_bc69bb1f
 enabled=1
 gpgcheck=0
 priority=1
