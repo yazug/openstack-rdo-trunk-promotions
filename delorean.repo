@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-python-django-horizon-8f22719326db3cbf4e6325cedd0c637ffe350adb
-baseurl=https://trunk.rdoproject.org/centos7/8f/22/8f22719326db3cbf4e6325cedd0c637ffe350adb_7bca5b5d
+name=delorean-puppet-pacemaker-1506407ae2484e6a411a217d41173c3e679cdb20
+baseurl=https://trunk.rdoproject.org/centos7/15/06/1506407ae2484e6a411a217d41173c3e679cdb20_59461364
 enabled=1
 gpgcheck=0
 priority=1
