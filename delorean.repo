@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-openstack-ironic-python-agent-dbc647ceff2fe137a56e73fdb990a8dad63aef7b
-baseurl=https://trunk.rdoproject.org/centos7/db/c6/dbc647ceff2fe137a56e73fdb990a8dad63aef7b_aa75f074
+name=delorean-openstack-neutron-7653301bf6d1d610c725a09834618fa965224074
+baseurl=https://trunk.rdoproject.org/centos7/76/53/7653301bf6d1d610c725a09834618fa965224074_8ea892a7
 enabled=1
 gpgcheck=0
 priority=1
