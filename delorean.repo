@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-openstack-cloudkitty-ui-ced3468cb5b0f94440082095cea0fac6aec1c18c
-baseurl=https://trunk.rdoproject.org/centos7/ce/d3/ced3468cb5b0f94440082095cea0fac6aec1c18c_3c447226
+name=delorean-openstack-octavia-9cc65b3f3114e2d175f25e0f77ede376371bcb3c
+baseurl=https://trunk.rdoproject.org/centos7/9c/c6/9cc65b3f3114e2d175f25e0f77ede376371bcb3c_781da0a3
 enabled=1
 gpgcheck=0
 priority=1
