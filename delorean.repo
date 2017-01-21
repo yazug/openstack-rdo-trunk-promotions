@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-openstack-neutron-bc852b379cddde54a6f839d2e55d9f27335714c4
-baseurl=https://trunk.rdoproject.org/centos7/bc/85/bc852b379cddde54a6f839d2e55d9f27335714c4_c349b1a1
+name=delorean-python-cloudkittyclient-d82273fcd4fbc84d7748b03f765d7d2a14e121d6
+baseurl=https://trunk.rdoproject.org/centos7/d8/22/d82273fcd4fbc84d7748b03f765d7d2a14e121d6_2400978e
 enabled=1
 gpgcheck=0
 priority=1
