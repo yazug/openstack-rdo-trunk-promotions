@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-python-glance-store-2689a350c3f8ae63a4e175d81a673ee866db26c0
-baseurl=https://trunk.rdoproject.org/centos7/26/89/2689a350c3f8ae63a4e175d81a673ee866db26c0_95be3a06
+name=delorean-openstack-neutron-bc852b379cddde54a6f839d2e55d9f27335714c4
+baseurl=https://trunk.rdoproject.org/centos7/bc/85/bc852b379cddde54a6f839d2e55d9f27335714c4_c349b1a1
 enabled=1
 gpgcheck=0
 priority=1
