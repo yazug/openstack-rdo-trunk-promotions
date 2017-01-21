@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-openstack-ironic-inspector-a704c52e427344fe3e2397da5898bdeadb1fef66
-baseurl=https://trunk.rdoproject.org/centos7/a7/04/a704c52e427344fe3e2397da5898bdeadb1fef66_b37b9573
+name=delorean-openstack-nova-009c1927e5496aa3f8339ad6763cfc0c3a11ce14
+baseurl=https://trunk.rdoproject.org/centos7/00/9c/009c1927e5496aa3f8339ad6763cfc0c3a11ce14_c211fbe8
 enabled=1
 gpgcheck=0
 priority=1
