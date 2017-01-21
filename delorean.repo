@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-puppet-opendaylight-6496b2e1664addd97a05398fa312e1af492e5715
-baseurl=https://trunk.rdoproject.org/centos7/64/96/6496b2e1664addd97a05398fa312e1af492e5715_b94769c1
+name=delorean-openstack-nova-6b2c161b8fda35a6647b8663bd2b59d3c69c1ad3
+baseurl=https://trunk.rdoproject.org/centos7/6b/2c/6b2c161b8fda35a6647b8663bd2b59d3c69c1ad3_73ab70fb
 enabled=1
 gpgcheck=0
 priority=1
