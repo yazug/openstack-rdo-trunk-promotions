@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-openstack-murano-3f6b454059ea002963eb421693b7e2a1d69a72fa
-baseurl=https://trunk.rdoproject.org/centos7/3f/6b/3f6b454059ea002963eb421693b7e2a1d69a72fa_9ea4a664
+name=delorean-python-networking-bagpipe-57fc60b9ad38341fa334e864afa0980efeff8b7a
+baseurl=https://trunk.rdoproject.org/centos7/57/fc/57fc60b9ad38341fa334e864afa0980efeff8b7a_48a18c2a
 enabled=1
 gpgcheck=0
 priority=1
