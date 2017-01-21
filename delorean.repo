@@ -1,6 +1,6 @@
 [delorean]
-name=delorean-openstack-trove-40762e266ad31de66298a3b3baef074d8a113dfb
-baseurl=https://trunk.rdoproject.org/centos7/40/76/40762e266ad31de66298a3b3baef074d8a113dfb_878ef3fc
+name=delorean-python-networking-vmware-nsx-53b8498fc6c6e1de6619f2c1be02d1887ae50677
+baseurl=https://trunk.rdoproject.org/centos7/53/b8/53b8498fc6c6e1de6619f2c1be02d1887ae50677_1164d4c0
 enabled=1
 gpgcheck=0
 priority=1
