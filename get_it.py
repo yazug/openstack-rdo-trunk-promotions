@@ -43,7 +43,7 @@ with open('promote-puppet-passed-ci.log') as input_file:
             continue
 
         if repo.is_dirty() is True:
-            commit_msg = "import hash {0}\n\nFull Hash: {1}".format(line[0:8], line)
+            commit_msg = "import hash {0}\n\nFull Hash: {1}\n".format(line[0:8], line)
             index = repo.index
             diffIndex = repo.head.commit.diff(None)
             for change_type in sorted(mapping.keys()):
